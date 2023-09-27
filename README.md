@@ -86,9 +86,13 @@ git lfs pull
 
 ## 참고 자료 및 외부 데이터 출처
 
-- [참고 자료 1](참고_자료_링크1)
-- [참고 자료 2](참고_자료_링크2)
-- [외부 데이터](참고_자료_링크3)
+- GIS 외부 데이터 (Data SF - https://data.sfgov.org/)
+    * 샌프란시스코 경찰서 위치
+    > 출처: https://data.sfgov.org/Public-Safety/Police-Stations-2011-/rwdu-9wb2  
+    * 샌프란시스코 경찰서별 담당구역
+    > 출처: https://data.sfgov.org/Public-Safety/Current-Police-Districts/wkhw-cjsf  
+    * 샌프란시스코 랜드마크
+    > 출처: https://data.sfgov.org/Geographic-Locations-and-Boundaries/Landmarks/rzic-39gi  
 
 
 
